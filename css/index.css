@@ -7,7 +7,7 @@
     font-family: 'poppins', sans-serif;
 }
 body{
-    background: url("/IMG/hinh-nen-desktop.jpg");
+    background: url("IMG/hinh-nen-desktop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
